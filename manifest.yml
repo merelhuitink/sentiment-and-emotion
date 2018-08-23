@@ -7,3 +7,5 @@ applications:
   services:
   - my-nlu-service
   
+>>> cf api https://api.ng.bluemix.net
+>>> cf login
