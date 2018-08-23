@@ -1,6 +1,6 @@
 ---
 applications:
-- name: sentiment-and-emotion
+- name: sentiment-emotion-analysis
   command: npm start
   path: .
   memory: 512M
